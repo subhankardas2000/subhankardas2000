@@ -1,51 +1,45 @@
-<br clear="both">
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
-<h2 align="center">Hi! I'm Subhankar Das</h2>
+<br />
 
-###
+I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-</div>
+**About me**
 
-###
+- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/subhankardas2000/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/@codingwithsharma/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
+- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
 
-###
+- ❤️ I love writing TypeScript, and building fun experiments on type-level
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif"  />
+- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
-###
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
 
-###
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/anuraghazra/anuraghazra.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/anuraghazra">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+</a>
