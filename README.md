@@ -53,13 +53,8 @@
 
 ###
 
-![Subhankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhankardas2000&theme=dark&show_icons=true)
-###
-
-<div align="center">
-  <a href="https://spotify.link/3sswD4kSCDb">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-  </a>
-</div>
+![Subhankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhankardas2000&theme=shadow_green_icons=true)
 
 ###
+
+![Subhankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhankardas2000&theme=shadow_blue_icons=true)
