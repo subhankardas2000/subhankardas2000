@@ -54,7 +54,3 @@
 ###
 
 ![Subhankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhankardas2000&theme=shadow_green_icons=true)
-
-###
-
-![Subhankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=subhankardas2000&theme=shadow_blue_icons=true)
