@@ -1,4 +1,4 @@
-<h2 align="center">S U B H A K A R  D A S</h2>
+<h2 align="center">S U B H A N K A R   D A S</h2>
 
 ###
 
